@@ -114,7 +114,12 @@ SELECT
 FROM learndata_crudo.raw_pedidos_wocommerce w
 LEFT JOIN learndata.dim_product p on p.product_name = w.nombre_del_articulo;
 
+DELETE FROM learndata_crudo.raw_pedidos_wocommerce
+WHERE numero_de_pedido = 41624 AND `id cliente` = 1324;
+
 # 9. Insert clean data and the desired columns into our new table.
+
+SELECT @@GLOBAL.sql_mode global, @@SESSION.sql_mode SESSION;
 
 INSERT INTO learndata.fac_stripe_payments
 
