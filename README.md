@@ -26,7 +26,7 @@ We will employ SQL to construct the database and perform data cleaning.
 
 # Conclusions:
 
-# * Infrastructure Development for Effective Data Analysis:
+### * Infrastructure Development for Effective Data Analysis:
 LearnData's initiative to build a robust technological infrastructure is a pivotal step towards ensuring efficient data analysis. This will empower various business units to make informed decisions based on clean and reliable data.
 
 # * Necessity for Data Preparation and Cleaning:
