@@ -32,10 +32,13 @@ LearnData's initiative to build a robust technological infrastructure is a pivot
 ### * Necessity for Data Preparation and Cleaning:
 The project's primary focus on data cleaning underscores the critical importance of having accurate and well-structured data. This process is foundational in enabling meaningful analysis and deriving actionable insights.
 
+### * Mitigating Duplicate Order IDs:
+The identification of duplicate order IDs highlights the importance of rigorous data validation and integrity checks. This issue must be promptly addressed to ensure accurate tracking and reporting, emphasizing the need for robust data management protocols.
+
 ### * Empowering Data-Driven Decision-Making:
 LearnData's aspiration to analyze key financial metrics highlights a strategic shift towards data-driven decision-making. By establishing a reliable data system, LearnData is positioning itself to extract valuable insights for business growth and optimization.
 
 ### * SQL as a Core Tool for Database Construction and Cleaning:
 The choice of SQL as the primary tool for database construction and data cleaning demonstrates a practical and effective approach. SQL's capabilities in managing and manipulating data sets align well with the project's objectives.
 
-In summary, this project represents a significant step forward for LearnData in harnessing the power of data analysis. By building a robust data infrastructure and prioritizing data cleanliness, LearnData is poised to unlock valuable insights that will drive informed business decisions. The strategic integration of essential tools further solidifies their position as a leading player in the e-learning industry
+In summary, this project represents a significant step forward for LearnData in harnessing the power of data analysis. By building a robust data infrastructure and prioritizing data cleanliness, LearnData is poised to unlock valuable insights that will drive informed business decisions. The strategic integration of essential tools further solidifies their position as a leading player in the e-learning industry.
