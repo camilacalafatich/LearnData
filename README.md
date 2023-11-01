@@ -20,6 +20,6 @@ LearnData's objective is to initiate the analysis of their key financial metrics
 * Establish the order database from raw data.
 * Develop the Stripe payment database from raw data.
 
-#Tools to Be Utilized:
+# Tools to Be Utilized:
 
 We will employ SQL to construct the database and perform data cleaning.
